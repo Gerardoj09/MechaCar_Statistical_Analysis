@@ -30,3 +30,18 @@
 ## T-Tests on Suspension Coils
 
 ![image](https://user-images.githubusercontent.com/88596274/149544600-4a2c7bc2-fdad-40ce-8d6d-fe60d25d7ac9.png)
+
+
+## Study Design: MechaCar vs Competition
+
+### What metric or metrics are you going to test?
+#### 
+
+### What is the null hypothesis or alternative hypothesis?
+#### 
+
+### What statistical test would you use to test the hypothesis? And why?
+#### 
+
+### What data is needed to run the statistical test?
+#### 
