@@ -2,6 +2,9 @@
 
 ## Linear Regression to Predict MPG
 
+![image](https://user-images.githubusercontent.com/88596274/149545187-d9f9230b-dadd-482a-8e9a-06275ed77b3e.png)
+
+
 ### Output from the linear regression
 #### As shown in the following image from the summary output,  
 
@@ -16,6 +19,13 @@
 ### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 #### 
 
+## Summary Statistics on Suspension Coils
+
+![image](https://user-images.githubusercontent.com/88596274/149545562-333e32d8-0086-46c2-ba4c-7ceaf1dfc23b.png)
+![image](https://user-images.githubusercontent.com/88596274/149545592-6ac1182a-5666-441e-ba82-4fc6fe96159e.png)
+
+### Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+#### 
 
 ## T-Tests on Suspension Coils
 
