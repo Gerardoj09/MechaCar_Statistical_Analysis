@@ -12,3 +12,5 @@ head(df, n=10)
 
 total_summary <- df_coils %>% summarize(Mean=mean(PSI),Median=median(PSI),Variance=var(PSI),SD=sd(PSI))
 lot_summary <- df_coils %>% group_by(Manufacturing_Lot) %>% summarize(Mean=mean(PSI),Median=median(PSI),Variance=var(PSI),SD=sd(PSI))
+
+t.test(df_coils$PSI, mu=1500)
