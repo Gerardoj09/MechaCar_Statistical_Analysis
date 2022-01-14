@@ -15,3 +15,8 @@
 
 ### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 #### 
+
+
+## T-Tests on Suspension Coils
+
+![image](https://user-images.githubusercontent.com/88596274/149544600-4a2c7bc2-fdad-40ce-8d6d-fe60d25d7ac9.png)
