@@ -35,13 +35,13 @@
 ## Study Design: MechaCar vs Competition
 
 ### What metric or metrics are you going to test?
-#### 
+#### To run an accurate analysis, the metrics to test would be: fuel efficiency, one-change energy eficiency, one-charge energy capacity, vechicle cost, electricity cost, fuel cost, distance traveled in city, distance traveled in high way, manufacturer, maintenance cost, maintenance frequency. 
 
 ### What is the null hypothesis or alternative hypothesis?
-#### 
+#### Null hypothesis: Electric vehicles and fuel vehicles are equally costly to drive and maintain.
 
 ### What statistical test would you use to test the hypothesis? And why?
-#### 
+#### A "" test is needed to validate or reject the null hypothesis.
 
 ### What data is needed to run the statistical test?
-#### 
+#### The required data to run a statisticall test would be: fuel efficiency in 
